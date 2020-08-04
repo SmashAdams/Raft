@@ -9,32 +9,32 @@
 2-3:15 - Epics Review (Walk through and validate initial Epics generated during discovery) 
 3:30 - 5  - Architecture Review
 
-Tuesday - Planning
+## Tuesday - Planning
 9-12 Epics breakdown (walk through Epics in greater detail break down into user stories, research spikes, etc)
 12-1 Lunch
 1-2:30 - Epics Breakdown, con't
 2:45-5 - T-shirt sizing and Sprint Mapping (rough estimates of the work and division into sprint themes/sequence of execution)
 
-Wednesday - Planning
+## Wednesday - Planning
 9-12 User story refinement
 12-1 Lunch
 1-2:30 - User story refinement, con't
 2:45-5 - Sizing (if not done during refinement) and Sprint Mapping (identify sprint themes/sequence of execution)
 
-Thursday - Preparation 
+## Thursday - Preparation 
 9-12:00 - Sprint 0 planning
 12-1 Lunch
 1:00-2:30 - Project Risks & Mitigations
 2:45-5 - Remaining outstanding Items
 
-Friday  - Initiation (or Client Kickoff)
+## Friday  - Initiation (or Client Kickoff)
 Wrap up any loose ends that need to be addressed prior to Sprint kickoff on Monday
 The first four days assume the client was in the room.  If that's not how you do things, key team members would run the client through the Epics, user stories, architecture, risks, sprint themes, etc on Friday while the rest of the team focuses on getting ready for Sprint 0
 
 
 # Sprint Ceremonies
 
-Daily Standup
+## Daily Standup
 
 Purpose: quick check-in on Sprint/Iteration progress
 Attendees: internal team
@@ -45,7 +45,7 @@ Method: walk through scrum board (either formally or as a mnemonic, per team or 
 Output: Blockers and problems to be solved through collaboration are placed in a ‘parking lot’ to be addressed after Standup.  (No problem solving during Standup).
 
 
-Sprint Planning
+## Sprint Planning
 
 Purpose: review items for next Sprint
 Attendees: internal team
@@ -55,7 +55,7 @@ Method: review stories in order, address any questions or requirements that need
 Output: finalized backlog for the Sprint, updates/clarifications added to user stories, general notions of who will take what, where the challenges will come from, new risks identified/known risks to be mitigated by the expected output
 
 
-Sprint Demo
+## Sprint Demo
 
 Purpose: present work completed during the Sprint
 Attendees: internal team including account reps/relevant leadership, client Product Owner and stakeholders
@@ -65,7 +65,7 @@ Method: Demo new functionality added to the system
 Output: Client acceptance of completed work, feedback on project direction/priorities, working solution in staging environment for further client review (this could be happening throughout the Sprint as items pass QA, merge, and deploy.  In that case the demo is more of a recap and confirmation/sanity check)
 
 
-Sprint Retrospective
+## Sprint Retrospective
 
 Purpose: review Scrum process
 Attendees: internal team
