@@ -45,7 +45,7 @@ Method: walk through scrum board (either formally or as a mnemonic, per team or 
 Output: Blockers and problems to be solved through collaboration are placed in a ‘parking lot’ to be addressed after Standup.  (No problem solving during Standup).
 
 
-## Sprint Planning
+## Planning
 
 Purpose: review items for next Sprint
 Attendees: internal team
@@ -55,7 +55,7 @@ Method: review stories in order, address any questions or requirements that need
 Output: finalized backlog for the Sprint, updates/clarifications added to user stories, general notions of who will take what, where the challenges will come from, new risks identified/known risks to be mitigated by the expected output
 
 
-## Sprint Demo
+## Demo
 
 Purpose: present work completed during the Sprint
 Attendees: internal team including account reps/relevant leadership, client Product Owner and stakeholders
@@ -65,7 +65,7 @@ Method: Demo new functionality added to the system
 Output: Client acceptance of completed work, feedback on project direction/priorities, working solution in staging environment for further client review (this could be happening throughout the Sprint as items pass QA, merge, and deploy.  In that case the demo is more of a recap and confirmation/sanity check)
 
 
-## Sprint Retrospective
+## Retrospective
 
 Purpose: review Scrum process
 Attendees: internal team
