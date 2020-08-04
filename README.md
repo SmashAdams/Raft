@@ -1,5 +1,5 @@
 # Kickoff Agenda
-Monday - Kickoff
+## Monday - Kickoff
 9-12 Project Overview
   Client profile review: industry & market position, challenges & opportunities
   Project summary: vision/objectives, phase 1 roadmap
